@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-[![An image of @aruncn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aruncn)](https://holopin.io/@aruncn)
+[![ @aruncn's Holopin badges](https://holopin.me/aruncn)](https://holopin.io/@aruncn)
 
 
 <h3 align="left">Languages and Tools:</h3>
