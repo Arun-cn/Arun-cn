@@ -3,7 +3,6 @@
 
 - 💬 About me **A passionate Full Stack Developer with hands-on experience in building modern, responsive websites and web applications. I’m always eager to learn and improve my skills. I’m actively looking for full-time opportunities where I can contribute, grow, and work with a talented team to build great products. 💡 Driven by problem-solving, continuous learning, and delivering clean, maintainable code.**
 
-- 📫 How to reach me **arunchandran9876@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
